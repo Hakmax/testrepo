@@ -18,6 +18,7 @@ namespace LuceneTest
     {
         static void Main(string[] args)
         {
+            //TEst changes
             string term = Console.ReadLine();
             string searchableTerm = term + "*";
             string dirPath = @"E:\Downloads\ProductsIndex (2)\ProductsIndex";
