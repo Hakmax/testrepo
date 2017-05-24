@@ -1,0 +1,10 @@
+F:\Dev\CSharp\!Work\LuceneTest\LuceneTest\bin\Debug\LuceneTest.exe.config
+F:\Dev\CSharp\!Work\LuceneTest\LuceneTest\bin\Debug\LuceneTest.exe
+F:\Dev\CSharp\!Work\LuceneTest\LuceneTest\bin\Debug\LuceneTest.pdb
+F:\Dev\CSharp\!Work\LuceneTest\LuceneTest\bin\Debug\Lucene.Net.dll
+F:\Dev\CSharp\!Work\LuceneTest\LuceneTest\obj\Debug\LuceneTest.csprojResolveAssemblyReference.cache
+F:\Dev\CSharp\!Work\LuceneTest\LuceneTest\obj\Debug\LuceneTest.exe
+F:\Dev\CSharp\!Work\LuceneTest\LuceneTest\obj\Debug\LuceneTest.pdb
+f:\Dev\CSharp\!Work\testrepo\LuceneTest\LuceneTest\bin\Debug\LuceneTest.exe.config
+f:\Dev\CSharp\!Work\testrepo\LuceneTest\LuceneTest\obj\Debug\LuceneTest.exe
+f:\Dev\CSharp\!Work\testrepo\LuceneTest\LuceneTest\obj\Debug\LuceneTest.pdb
